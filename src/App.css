@@ -1,0 +1,60 @@
+Body {
+  background-image: url(pic.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+h2 {
+  justify-self: left;
+}
+.reg {
+  display: flex;
+  column-gap: 1rem;
+  justify-content: center;
+  margin-bottom: 3rem;
+}
+
+#regg {
+  justify-self: center;
+}
+
+.btn {
+  text-decoration: none;
+  color: white;
+}
+
+.button {
+  background-color: rgb(63, 127, 217);
+  color: white;
+  height: 2rem;
+  width: 5rem;
+  border: none;
+  border-radius: 5px;
+}
+
+.button1 {
+  background-color: rgb(63, 127, 217);
+  color: white;
+  height: 2rem;
+  width: 9rem;
+  border: none;
+  border-radius: 5px;
+}
+
+.button:hover {
+  opacity: 0.5;
+}
+
+.btn2 {
+  background-color: rgb(62, 170, 62);
+  color: white;
+  border: none;
+  height: 2rem;
+}
+
+.time {
+  color: red;
+}
